@@ -1,0 +1,6 @@
+{
+    "name": "serverless-offline-aws-sdk-sts",
+    "version": "0.1.0",
+    "description": "Serverless Plugin for Serverless Offline AWS SDK STS",
+    "main": "index.js"
+}
